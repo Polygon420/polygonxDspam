@@ -9,7 +9,7 @@
         "XdSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/FabinoXD/xDSpam",
+  "repository": "https://github.com/coltonfrost/xDSpam",
   "website": "https://github.com/FabinoXD",
   "success_url": "https://t.me/EnoughBio",
   "env": {
